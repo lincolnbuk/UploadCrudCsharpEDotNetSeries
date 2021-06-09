@@ -1,5 +1,8 @@
 #  Resumo deste repósitorio  #
 
+## O que ele é? ##
+#### - É um sistema de cadastro de séries (filmes). ####
+
 ## Linguagem trabalhadas ##
 #### - Linguagem desenvolvida: C# ####
 #### - Framework: DotNet e Scrum ####
